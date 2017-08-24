@@ -51,4 +51,5 @@
 		</div>
 	</div>
 </main>
-</div><!--/.sfooter-content-->
+</div>
+<meow-footer></meow-footer>
